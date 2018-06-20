@@ -1,6 +1,4 @@
 
-var str;
-
 $('form#form').submit(function (event) {
 
   //this will cancel action of form
